@@ -16,3 +16,24 @@ Small Form Factor (Approx 36mm X 64mm)
 
 <img width="392" alt="STM32F401RCT6 12-CHANNEL BRUSHED DC MOTOR DRIVER BOARD @10V MAX" src="https://github.com/gxdeange/STM32-12-Channel-Brushed-DC-Motor-Driver-10V-Max/assets/57690555/1fad41d9-36f8-4809-ae4a-735f471248e5">
 
+# Motor Driver / MCU Pin Mappings
+
+* M1+ : PB3        * M7+ : PC6
+* M1- : PB4        * M7- : PC7
+
+* M2+ : PC11       * M8+ : PB14
+* M2- : PC12       * M8- : PB15
+
+* M3+ : PA12       * M9+ : PB12
+* M3- : PC10       * M9- : PB13
+
+* M4+ : PA10       * M10+ : PB2
+* M4- : PA11       * M10- : PB10
+
+* M5+ : PA8        * M11+ : PB0
+* M5- : PA9        * M11- : PB1
+
+* M6+ : PC8        * M12+ : PC4
+* M6- : PC9        * M12- : PC5
+
+![STM32 12-CHANNEL MOTOR : MCU PIN MAPPING](https://github.com/gxdeange/STM32-12-Channel-Brushed-DC-Motor-Driver-10V-Max/assets/57690555/9559372b-2946-4ea1-9e84-6d814d84ad75)
