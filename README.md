@@ -40,4 +40,4 @@ M6- : PC9         M12- : PC5
 
 # PROGRAMMING NOTE
 
-This MCU does not use an external crystal and any code that uses the Internal RC Clock (HSI).
+This MCU does not use an external crystal. The Internal RC Clock (HSI) must be initialised at the start of you sketch.
