@@ -20,44 +20,6 @@ Small Form Factor (Approx 36mm X 64mm)
 
 ![image](https://github.com/gxdeange/STM32-12-Channel-Brushed-DC-Motor-Driver-10V-Max/assets/57690555/c79ceeda-9462-458a-a32c-a26813fc8bb1)
 
-
-
-* M1+ : PB3         
-* M1- : PB4         
-
-* M2+ : PC11        
-* M2- : PC12        
-
-* M3+ : PA12        
-* M3- : PC10        
-
-* M4+ : PA10        
-* M4- : PA11        
-
-* M5+ : PA8         
-* M5- : PA9         
-
-* M6+ : PC8         
-* M6- : PC9         
-
-* M7+ : PC6
-* M7- : PC7
-
-* M8+ : PB14
-* M8- : PB15
-
-* M9+ : PB12
-* M9- : PB13
-
-* M10+ : PB2
-* M10- : PB10
-
-* M11+ : PB0
-* M11- : PB1
-
-* M12+ : PC4
-* M12- : PC5
-
 ![STM32 12-CHANNEL MOTOR : MCU PIN MAPPING](https://github.com/gxdeange/STM32-12-Channel-Brushed-DC-Motor-Driver-10V-Max/assets/57690555/9559372b-2946-4ea1-9e84-6d814d84ad75)
 
 # PROGRAMMING NOTE
