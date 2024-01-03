@@ -60,10 +60,4 @@ Small Form Factor (Approx 36mm X 64mm)
 
 This MCU does not use an external crystal. The Internal RC Clock (HSI) must be initialised at the start of you sketch.
 
-Qhjq	Jhkj	Kjhk	Kjhk
-Kjhkj	Kjhk	Kjh	Kjh
-Kjhkkjh	Kjhkjhk	Kjhkj	Kjhkj
-Kjhkj	Kjhkj	Kjhkjh	Kjhkjh
-Kjhkjh	Kjhkjh	Kjhkjh	Kjhkjh
-Kjhkjh	Kjhkjh	Kjhkjh	kjhkj
 ![image](https://github.com/gxdeange/STM32-12-Channel-Brushed-DC-Motor-Driver-10V-Max/assets/57690555/469fa638-d974-4e95-8122-de8ae44edbcb)
