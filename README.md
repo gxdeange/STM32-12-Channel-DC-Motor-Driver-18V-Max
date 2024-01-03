@@ -18,7 +18,8 @@ Small Form Factor (Approx 36mm X 64mm)
 
 # Motor Driver / MCU Pin Mappings
 
-![image](https://github.com/gxdeange/STM32-12-Channel-Brushed-DC-Motor-Driver-10V-Max/assets/57690555/0903b844-e2c6-4359-8719-2580ec80945a)
+![image](https://github.com/gxdeange/STM32-12-Channel-Brushed-DC-Motor-Driver-10V-Max/assets/57690555/c79ceeda-9462-458a-a32c-a26813fc8bb1)
+
 
 
 * M1+ : PB3         
