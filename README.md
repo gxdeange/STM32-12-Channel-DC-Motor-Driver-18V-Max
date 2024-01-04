@@ -6,15 +6,13 @@ This board is designed for experimental or low current robotics with a max curre
 
 Features include:
 
-Reverse Polarity Protection (with LED indicator)
+* Reverse Polarity Protection (with LED indicator)
+* 10 X GPIO solder pads (can use standard 2.54mm Dupont Header pins)
+* Solder pads for PA5, PA6 & PA7 (SPI; SCK, MISO, MOSI)
+* USB Mini Connector
+* Small Form Factor (Approx 36mm X 64mm)
 
-10 X GPIO solder pads (can use standard 2.54mm Dupont Header pins)
-
-USB Mini Connector
-
-Small Form Factor (Approx 36mm X 64mm)
-
-<img width="392" alt="STM32F401RCT6 12-CHANNEL BRUSHED DC MOTOR DRIVER BOARD @10V MAX" src="https://github.com/gxdeange/STM32-12-Channel-Brushed-DC-Motor-Driver-10V-Max/assets/57690555/1fad41d9-36f8-4809-ae4a-735f471248e5">
+<img width="398" alt="STM32 12-Channel Brushed DC Motor Board 10V Max" src="https://github.com/gxdeange/STM32-12-Channel-Brushed-DC-Motor-Driver-10V-Max/assets/57690555/9ffec5ae-6639-4d48-ad04-78c515290957">
 
 # Motor Driver / MCU Pin Mappings
 
