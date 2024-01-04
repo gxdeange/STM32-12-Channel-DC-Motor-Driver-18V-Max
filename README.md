@@ -12,7 +12,7 @@ Features include:
 * USB Mini Connector
 * Small Form Factor (Approx 36mm X 64mm)
 
-<img width="398" alt="STM32 12-Channel Brushed DC Motor Board 10V Max" src="https://github.com/gxdeange/STM32-12-Channel-Brushed-DC-Motor-Driver-10V-Max/assets/57690555/9ffec5ae-6639-4d48-ad04-78c515290957">
+<img width="398" alt="STM32 12-Channel Brushed DC Motor Board 10V Max" src="https://github.com/gxdeange/STM32-12-Channel-Brushed-DC-Motor-Driver-10V-Max/assets/57690555/7d6df86d-4df8-498d-8e36-bc62bce7a4cf">
 
 # Motor Driver / MCU Pin Mappings
 
