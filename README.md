@@ -1,6 +1,6 @@
-# STM32 Based 12-Channel Brushed DC Motor Driver Board @10V Max
+# STM32 Based 12-Channel DC Motor Driver Board @10V Max
 
-STM32F401RCT6 based Stepper Motor Driver capable of running at 10V MAX.
+STM32F401RCT6 based DC Motor Driver capable of running at 10V MAX.
 
 This board is designed for experimental or low current robotics with a max current drive of ~800mA.
 
