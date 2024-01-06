@@ -1,6 +1,6 @@
-# STM32 Based 12-Channel DC Motor Driver Board @10V Max
+# STM32 Based 12-Channel DC Motor Driver Board @18V Max
 
-STM32F401RCT6 based DC Motor Driver capable of running at 10V MAX.
+STM32F401RCT6 based DC Motor Driver capable of running at 18V MAX.
 
 This board is designed for experimental or low current robotics with a max current drive of ~800mA.
 
@@ -12,7 +12,7 @@ Features include:
 * USB Mini Connector
 * Small Form Factor (Approx 36mm X 64mm)
 
-<img width="398" alt="STM32 12-Channel Brushed DC Motor Board 10V Max" src="https://github.com/gxdeange/STM32-12-Channel-Brushed-DC-Motor-Driver-10V-Max/assets/57690555/7d6df86d-4df8-498d-8e36-bc62bce7a4cf">
+<img width="375" alt="STM32F401RCT6 12 Channel DC Motor Driver Board 18V Max" src="https://github.com/gxdeange/STM32-12-Channel-DC-Motor-Driver-18V-Max/assets/57690555/93072906-6caa-4126-975f-7e2a040c264c">
 
 # Motor Driver / MCU Pin Mappings
 
