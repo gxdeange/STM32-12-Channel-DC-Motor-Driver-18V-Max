@@ -22,6 +22,6 @@ Features include:
 
 # PROGRAMMING NOTE
 
-This MCU does not use an external crystal. The Internal RC Clock (HSI) must be initialised at the start of you sketch.
+This MCU does not use an external crystal. The Internal RC Clock (HSI) must be initialised at the start of your code.
 
 
