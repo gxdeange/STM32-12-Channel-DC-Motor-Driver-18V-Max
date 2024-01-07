@@ -10,6 +10,7 @@ Features include:
 * 10 X GPIO solder pads (can use standard 2.54mm Dupont Header pins)
 * Solder pads for PA5, PA6 & PA7 (SPI; SCK, MISO, MOSI)
 * USB Mini Connector
+* **All GPIO Inputs / Outputs are rated at 3.3V**
 * Small Form Factor (Approx 36mm X 64mm)
 
 <img width="375" alt="STM32F401RCT6 12 Channel DC Motor Driver Board 18V Max" src="https://github.com/gxdeange/STM32-12-Channel-DC-Motor-Driver-18V-Max/assets/57690555/93072906-6caa-4126-975f-7e2a040c264c">
