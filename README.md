@@ -2,7 +2,7 @@
 
 STM32F401RCT6 based DC Motor Driver capable of running at 18V MAX.
 
-This board is designed for experimental or low current robotics with a max current drive of ~800mA.
+This board is designed for experimental or low current applications with a max current drive of ~800mA.
 
 Features include:
 
